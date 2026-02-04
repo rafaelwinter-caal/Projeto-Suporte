@@ -3,7 +3,7 @@
 Script em **Batch (.bat)** para rotinas de suporte no Windows (Sistema, Rede, Segurança, Manutenção e Ferramentas).
 
 ## 📥 Download
-👉 Baixar manutencao.bat
+👉 [Baixar manutencao.bat (direto)](https://raw.githubusercontent.com/rafaelwinter-caal/Projeto-Suporte/main/src/manut
 
 ## 🚀 Como usar
 1. Baixe o arquivo `manutencao.bat`  
